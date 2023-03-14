@@ -1,1 +1,1 @@
-Read me fpr variable exp
+Readme for var exp
